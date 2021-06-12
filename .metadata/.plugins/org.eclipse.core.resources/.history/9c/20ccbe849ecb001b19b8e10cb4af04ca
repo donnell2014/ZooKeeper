@@ -10,7 +10,6 @@ public class Mammal {
 
 
 	public int getEnergy() {
-		
 		return energy;
 	}
 
@@ -19,8 +18,8 @@ public class Mammal {
 		this.energy = energy;
 	}
 	
-	public String displayEnergy() {
-		String result = "Current energy is:" + this.energy;
+	public int displayEnergy() {
+		int result = this.energy;
 		return result;
 	}
 }

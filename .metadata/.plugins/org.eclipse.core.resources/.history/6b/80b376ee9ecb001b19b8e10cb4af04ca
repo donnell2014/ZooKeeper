@@ -10,7 +10,6 @@ public class Mammal {
 
 
 	public int getEnergy() {
-		
 		return energy;
 	}
 
