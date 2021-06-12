@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\dalbe\Downloads\CodingDojo\Java\SpringToolSuite\ZooKeeper1\.metadata\.plugins\org.eclipse.jdt.core
+4203141381.index

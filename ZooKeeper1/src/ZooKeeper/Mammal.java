@@ -1,0 +1,25 @@
+package ZooKeeper;
+
+public class Mammal {
+	protected int energy;
+
+
+	public Mammal() {
+		this.energy = 100;
+	}
+
+
+	public int getEnergy() {
+		return energy;
+	}
+
+
+	public void setEnergy(int energy) {
+		this.energy = energy;
+	}
+	
+	public int displayEnergy() {
+		int result = this.energy;
+		return result;
+	}
+}
